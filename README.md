@@ -7,7 +7,7 @@
 
 - [رزومه]
 
-- [SOP]
+- [SOP](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/SOP.pdf)
 
 - [java script]
 ------------------
