@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/zahrajenabzaderodbari)
 
-_ [رزومه]
+- [رزومه]
 
 - [SOP]
 
