@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/zahrajenabzaderodbari)
 
-- [رزومه]
+- [رزومه](https://github.com/zahrajenabzaderodbari/PNU_3991_AR)
 
 - [SOP](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/SOP.pdf)
 
