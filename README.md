@@ -17,7 +17,7 @@
 
 - [ارزیابی رزومه و انگیزه نامه]
 
-- [خلاصه ارزیابی بخش عمومی]
+- [خلاصه ارزیابی بخش عمومی](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/ZJ_GeneralSection_CheckList_AR_3991-2.pdf)
 ------------------
 ## مشخصات کار آموزی 
 
