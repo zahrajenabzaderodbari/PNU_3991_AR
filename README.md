@@ -15,7 +15,7 @@
  
 ## بخش عمومی
 
-- [ارزیابی رزومه و انگیزه نامه]
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/ZJ_CV_CheckList_AR_3991-1.pdf)
 
 - [خلاصه ارزیابی بخش عمومی](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/ZJ_GeneralSection_CheckList_AR_3991-2.pdf)
 ------------------
