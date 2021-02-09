@@ -9,7 +9,7 @@
 
 - [SOP](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/SOP.pdf)
 
-- [java script]
+- [java script](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/CERTIFICATE%20(1).pdf)
 ------------------
 >  ارزیابی ها
  
