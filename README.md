@@ -29,6 +29,6 @@
 
 - [فرم طرح پروژه]
 
-- [پروژه عملی]
+- [پروژه عملی](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/main/FinalProject%20(1).zip)
 
 - [پروژه تحقیقی](https://github.com/zahrajenabzaderodbari/PNU_3991_AR/blob/1e99962177c19d46762042c08abfebed9c5df5f9/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
